@@ -1,2 +1,3 @@
-# pinyintable-mp3
-hanyu pinyin mp3 audio library
+# pinyintable-mp3 is a Hanyu Pinyin mp3 audio library.
+
+  Learn more: https://github.com/motetpaper/motetpaper/#PINYINTABLE
